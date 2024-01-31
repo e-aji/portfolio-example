@@ -3,6 +3,7 @@
 
 ## Description
 
+This main aim of this challenge is to create a 
 
 ## User Story
 
@@ -33,8 +34,15 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
+## Webpage Characteristics
 
-
+* The webpage includes 
+* xxx wireframing 
+* xxx
+* xxx
+* xxx 
+* xxx 
+* When the page is resized and viewed on various screens and display sizes, the layout of the page is responsive and adapts to that display size
 
 ## Image
 
