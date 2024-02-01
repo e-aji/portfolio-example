@@ -101,16 +101,18 @@ margin-bottom: 20px;
 }
 
 .about h2{
-  text-align: left;
-  font-size: 50px;
+  font-size: 40px;
   color: #1D4C54;
+  border-right: 4px solid ;
+  height: 250px;
+  position:relative;
   margin: 20px;
   float: left;
 }
 
 .about p{
 
-margin-left: 10px;
+margin-left: 40px;
 
 }
 
@@ -126,25 +128,25 @@ margin-left: 10px;
 
 .work h2{
 
-  font-size: 50px;
+  font-size: 40px;
   margin: 20px;
   float: left;
   text-align: left;
   color: #1D4C54
-  ;
+  
 }
-
 
 .card{
+      display: flex;
+      flex-wrap: wrap;
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
 
-  padding: 10px;
-  margin: 10px;
-  border-style: solid;
-  text-align: right;
-  justify-content: space-evenly;
-  flex-grow: 1;
-}
-
+    .card img {
+      max-width: 100%;
+      height: auto;}
 
 footer{
   
@@ -152,16 +154,18 @@ width: 100%;
 display: inline-block;
 position: relative;
 padding: 30px;
+margin-top: 1100px;
 
 }
 
 footer h2 {
 
-  font-size: 50px;
+  font-size: 40px;
   float: left;
   margin: 20ps;
   color: #1D4C54  ;
   text-align: left;
+  
 }
 
 footer ul {
@@ -216,12 +220,7 @@ footer a:hover{
     display: block;
     margin: 0;
     margin-bottom: 15px;
-  }
-
-   main {
-      }
-
-    }
+  } }
 
 @media only screen and (max-width: 600px) {
     .footer {
