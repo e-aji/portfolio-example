@@ -43,9 +43,21 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * The webpage includes a section that takes the user to a deployed application - this is the 'Refactoring' image which is larger than the other images in that section
 * When the page is resized and viewed on various screens and display sizes, the layout of the page is responsive and adapts to that display size
 
-## Images)
+## Images
+
+**Initial Wireframe** 
+
+<img width="490" alt="Initial Wireframe" src="https://github.com/e-aji/week-2-professional-portfolio-challenge/assets/156595423/95b085ea-254e-4a21-b587-c63bb6f47910">
+
+**Updated Wireframe** 
+
+<img width="460" alt="Updated Wireframe" src="https://github.com/e-aji/week-2-professional-portfolio-challenge/assets/156595423/974863fd-424a-4eec-a611-d7274bd21341">
+
+**Deployed Portfolio Webpage**
+
+<img width="321" alt="Portfolio-Deployed-Webapage" src="https://github.com/e-aji/week-2-professional-portfolio-challenge/assets/156595423/b3a7cae8-c8bf-4859-8ad9-2ecb1f363ce8">
 
 
 ## Link
 
-Link to deployed application - 
+Link to deployed application - https://e-aji.github.io/week-2-professional-portfolio-challenge/   
