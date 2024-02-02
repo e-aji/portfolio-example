@@ -43,11 +43,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * The webpage includes a section that takes the user to a deployed application - this is the 'Refactoring' image which is larger than the other images in that section
 * When the page is resized and viewed on various screens and display sizes, the layout of the page is responsive and adapts to that display size
 
-## Images
-
-(![Alt text](<Initial Wireframe.png>))
-(![Alt text](<Updated Wireframe.png>))
-
+## Images)
 
 
 ## Link
+
+Link to deployed application - 
