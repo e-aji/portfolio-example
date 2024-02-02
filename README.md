@@ -36,16 +36,17 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Webpage Characteristics
 
-* The webpage includes 
-* The  wireframing 
-* xxx
-* xxx
-* xxx 
-* xxx 
+* The webpage was wireframed to understand what the end result should look like - the initial wireframe and updated wireframe will be added in this READ.ME 
+* When each of the links in the navigation bar is selected, the user is taken to the section of the webpage that corresponds to that link
+* The webpage includes the developer's name, an avatar and links to an 'about me' section, their work and ways to contact them.
+* When the 'work' section is selected, the user is taken to the section with the tiled images with an example of a deployed application present.  
+* The webpage includes a section that takes the user to a deployed application - this is the 'Refactoring' image which is larger than the other images in that section
 * When the page is resized and viewed on various screens and display sizes, the layout of the page is responsive and adapts to that display size
 
-## Image
+## Images
 
+(![Alt text](<Initial Wireframe.png>))
+(![Alt text](<Updated Wireframe.png>))
 
 
 
