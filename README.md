@@ -1,9 +1,9 @@
-# week-2-professional-portfolio-challenge
+# Portfolio Example
 
 
 ## Description
 
-This main aim of this challenge is to create a portfolio that will be used to showcase work samples. The portfolio can then be made available for a potential employer to be able to view and assess the work present and make a decision as to whether it makes the owner of that portfolio a good candidate for an open position.  
+This main aim of this project is to create a portfolio example that will be used to showcase work samples. The portfolio can then be made available for a potential employer to be able to view and assess the work present and make a decision as to whether it makes the owner of that portfolio a good candidate for an open position.  
 
 ## User Story
 
